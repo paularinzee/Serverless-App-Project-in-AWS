@@ -329,20 +329,16 @@ functions:
   
   
   # Serverless 
-  <img width="1438" alt="Screenshot 2022-06-17 at 14 52 03" src="https://user-images.githubusercontent.com/80678596/174301979-2bd3fe32-df87-4417-8f9c-88e7e43adbea.png">
-
-  
-  <img width="1440" alt="Screenshot 2022-06-17 at 14 50 52" src="https://user-images.githubusercontent.com/80678596/174301833-78e5a059-ad52-468b-ac52-ff371b130ed6.png">
-
+ https://raw.githubusercontent.com/paularinzee/Serverless-todo/master/images/serverless-dashboard.PNG
   
 # Auth0
   
- <img width="1440" alt="Screenshot 2022-06-17 at 14 53 08" src="https://user-images.githubusercontent.com/80678596/174302159-192628e6-ea03-4d56-9253-a22c349286d1.png">
+ <img width="1440" alt="Screenshot 2022-06-17 at 14 53 08" src="https://raw.githubusercontent.com/paularinzee/Serverless-todo/master/images/auth0.PNG">
 
   
 # AWS Cloud Formation 
 
-  <img width="1440" alt="Screenshot 2022-06-17 at 14 55 40" src="https://user-images.githubusercontent.com/80678596/174302538-4c3a2a21-321c-4a81-b143-5873c9c94c15.png">
+  <img width="1440" alt="Screenshot 2022-06-17 at 14 55 40" src="https://raw.githubusercontent.com/paularinzee/Serverless-todo/master/images/cloudformation.PNG">
   
   
 ## Frontend
