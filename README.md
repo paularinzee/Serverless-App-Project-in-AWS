@@ -421,10 +421,10 @@ npm run start
 
 ### Working Todo
 
-  <img width="1260" alt="good-todo" src="https://user-images.githubusercontent.com/80678596/174300763-78ddd81d-0a0b-449e-9a4b-e84e769bfcc4.png">
+  <img width="1260" alt="good-todo" src="https://raw.githubusercontent.com/paularinzee/Serverless-todo/master/images/todo.PNG">
 
 ### Blank Todo 
-  <img width="1304" alt="blank-todo" src="https://user-images.githubusercontent.com/80678596/174301013-bf8430ad-3bbd-4a78-989c-b8d791f9cf71.png">
+  <img width="1304" alt="blank-todo" src="https://raw.githubusercontent.com/paularinzee/Serverless-todo/master/images/todos-with-files.PNG">
 
 
 This should start a development server with the React application that will interact with the serverless TODO application.
